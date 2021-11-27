@@ -1,5 +1,5 @@
 ## Sitio Web Fundación ECOTEC 🪴
-Diseño, Desarrollo e Implementación de un Sitio Web para la Fundación ECOTEC, Copyright ©ECOTEC.
+Diseño, Desarrollo e Implementación de un Sitio Web para la Fundación ECOTEC, Copyright ©ECOTEC./n
 Desarrollado en HTML, CSS, JS PHP, MDBOOTSTRAP
 Enlace al Sitio Web: http://fundacionecotec.co/
 
