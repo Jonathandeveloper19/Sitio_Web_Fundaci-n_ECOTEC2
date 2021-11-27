@@ -25,4 +25,3 @@ Enlace al Sitio Web: https://fundacionecotec.co/
 <img width="960" alt="Galeria de Fotos" src="https://user-images.githubusercontent.com/77124647/143719481-8ed7456f-014f-4015-9121-bd85281998cd.png">
 <img width="960" alt="Footer" src="https://user-images.githubusercontent.com/77124647/143719483-8c25a1ae-1967-44c1-a533-d12885f9fff7.png">
 
-Copyright ©ECOTEC.
